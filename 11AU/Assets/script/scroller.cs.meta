@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d43e2ddc7b48564aaead107b76ddef4
+timeCreated: 1525296546
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameover: {fileID: 2100000, guid: 4dfb71b44304bbd47a0ed8156a2bf05d, type: 2}
+  - gamestart: {fileID: 2100000, guid: 790d58d7712ac744bbf174d5534a3b0c, type: 2}
+  - gamego: {fileID: 2100000, guid: e56a5a5179868804bb4d78fb2bb135c8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
